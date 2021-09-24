@@ -520,7 +520,8 @@ section {
 # Pricing
 --------------------------------------------------------------*/
 .pricing{
-  background-color: rgb(26, 24, 24);
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url("../assets/img/pricing-bg.jpg") center center;
+  background-size: cover;
 }
 .pricing .box {
   padding: 40px;
